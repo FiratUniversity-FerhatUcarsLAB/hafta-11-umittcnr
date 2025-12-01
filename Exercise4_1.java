@@ -1,3 +1,11 @@
+/*
+ * Ad Soyad: [ümitcan çinar]
+ * Ogrenci No: [250541009]
+ * Tarih: [1/12/2025]
+ * Aciklama: Gorev 1 - method çalıştırma egzersizi
+ *
+ * Bu program metotların çalışmasını kavramayı, parametrelerin sıralarına göre alınan argümanları sıralamayı öğretir.
+ */
 public class Exercise4_1 {
     public static void main(String[] args) {
        printAmerican("pazartesi ", 22 , " haziran ", 2025);
