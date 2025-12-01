@@ -7,7 +7,7 @@
  * Bu program stack diyagramları sayesinde paramtre aergüman yapısını ve sırasını daha iyi kavramamızı sağlar.
  */
 
-public class Exercise4_1 {
+public class Exercise4_3 {
 
 
         public static void zoop() {
